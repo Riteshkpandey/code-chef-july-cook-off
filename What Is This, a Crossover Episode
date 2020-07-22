@@ -3,7 +3,7 @@ You are given an integer D. You have to find a string S such that the following 
 S is non-empty and its length does not exceed 7⋅D.
 S contains only lowercase English letters.
 The number of distinct substrings in S minus the number of palindromic substrings in S equals D. Here, when counting palindromic substrings, a substring that occurs multiple times should be counted multiple times.
-It can be proved that a solution always exists under the given constraints.
+It can be proved that a solution always exists under the   given constraints.
 
 Notes:
 
