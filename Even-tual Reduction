@@ -7,7 +7,7 @@ Is it possible to erase the whole string using one or more operations?
 Note: A string B is a substring of a string A if B can be obtained from A by deleting several (possibly none or all) characters from the beginning and several (possibly none or all) characters from the end.
 
 Input
-The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
+The  first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
 The first line of each test case contains a single integer N.
 The second line contains a single string S with length N.
 Output
